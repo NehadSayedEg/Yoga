@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Exercises_List"
+    android:orientation="vertical"
+        >
+
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/yoga_positions"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textColor="@color/textColor"
+        android:textStyle="italic"
+        android:gravity="top"
+        android:background="@color/colorAccent"
+        android:layout_alignParentTop="true"
+        />
+
+
+
+
+
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_marginTop="8dp"
+        android:id="@+id/exerciseList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title"
+        android:clickable="true"
+        android:focusable="true"
+        android:scrollbarStyle="outsideOverlay"
+        android:clipToPadding="false"
+        android:paddingBottom="18dp"
+
+        >
+
+
+    </android.support.v7.widget.RecyclerView>
+
+    </LinearLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41873136632",
+    "firebase_url": "https://yoga-8d2d5.firebaseio.com",
+    "project_id": "yoga-8d2d5",
+    "storage_bucket": "yoga-8d2d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41873136632:android:47b2b631d04e6c0a",
+        "android_client_info": {
+          "package_name": "com.nehad.android.yoga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41873136632-cr467skfqsb2ei9ctg8ptcroenajv68r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nehad.android.yoga",
+            "certificate_hash": "8ba7800729b772d8089a4aac92782e7dac6b41a0"
+          }
+        },
+        {
+          "client_id": "41873136632-m7f3aa27uls0oo4obgolbfc4f3tru6qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCULpx4HzauUeFNCfXlfW53JWhAqZBpCPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41873136632-m7f3aa27uls0oo4obgolbfc4f3tru6qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

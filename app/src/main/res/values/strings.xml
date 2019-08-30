@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Yoga</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="Exercises">Exercises</string>
+
+
+    <string name="start">Start Exercising</string>
+
+    <string name="widget_start">Lets Play YOGA</string>
+
+
+    <string name="yoga_positions">YOGA POSITIONS</string>
+    <string name="Position_name">Position Name </string>
+
+    <string name="Timer">30 </string>
+
+
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-2912245467422242/4849313560</string>
+    <string name="app_id">ca-app-pub-2912245467422242~8046376445</string>
+
+
+
+    <string name="save">SAVE</string>
+
+
+
+
+</resources>
